@@ -73,7 +73,7 @@ university. Some of which are in Russian but nevertheless большое пис�
 
 #### GHC
 
-The Glorious Glasgow Haskell Compiler had it's 8.2 release, and landed to much
+The Glorious Glasgow Haskell Compiler had its 8.2 release, and landed to much
 rejoicing. Major features such as unboxed sum types landed as planned in GHC
 8.2. There were many longstanding issues that were closed and many miscellaneous
 fixes contributed in 2017. For instance GHC now uses alternative linkers such as
